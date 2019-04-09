@@ -5,7 +5,7 @@
  * klaytn 파일은 용량이 너무 커서 올리지 않았습니다.
  
  ## 작동방법
- 
+ * weniv  내에서
 ``` 
 pip3 install django-taggit
 pip3 install django-bootstrap4
